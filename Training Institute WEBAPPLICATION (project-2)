@@ -1,0 +1,112 @@
+-------- index.html ---------
+
+<!DOCTYPE html>
+<head>
+    <title>shabarrish academy</title>
+</head>
+
+<body bgcolor="0B1017" style="color: white">
+    <center>
+    <h1>SHABARRISH TRAINING ACADEMY</h1>
+    <h4>free mentorship | 24/7 support | lifetime acess</h4>
+    </center>
+ <hr>
+
+ <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FYErehuSuuw?si=6lYFzesxp7pNG_fN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </center>
+
+ <p>Are you ready to kickstart your career in web development? Look no further! In this comprehensive YouTube video, we've got you covered with everything you need to know about HTML – the backbone of web design. Whether you're a beginner or just looking to refresh your skills, our video is tailored to guide you through two essential sections for building a strong foundation.
+</p>
+
+<hr>
+
+<h1>COURSES AVAILABLE</h1>
+<ul>
+    <li>FULL STACK</li>
+    <li>DATA SCIENCE</li>
+    <li>CLOUD COMPUTING</li>
+    <li>AI & ML</li>
+
+</ul>
+<h1>ESSENTIALS FOR WEB DEVLOPMENT</h1>
+<table border="2">
+    <tr>
+        <td>HTML</td>
+        <td>CSS</td>
+    </tr>
+    <tr>
+        <td>JS</td>
+        <td>REACT JS</td>
+        </tr>
+</table>
+
+<hr>
+
+<center>
+    <p>
+        <a href="register.html">REGISTER</a>   <a href="https://www.instagram.com/_shabarri_?igsh=MWg1NTZiZzZxaDNqZw%3D%3D&utm_source=qr">INSTAGRAM</a>   <a href="https://youtu.be/FYErehuSuuw?si=HeqEe0XtnSA17Nfn">YOUTUBE</a>
+
+    </p>
+</center>
+
+</body>
+
+
+------- register.html ------------
+
+<!DOCTYPE html>
+<head>
+    <title>reigster</title>
+</head>
+
+<body bgcolor="A30C4A" style="color: white">
+    <center>
+        <h1>SHABARRISH TRAINING INSTITUTE</h1>
+        <h4>REGISTRATION FORM</h4>
+        <hr>
+
+    <form>
+    <table>
+             <tr>
+                <td>name:</td> <td> <input type="text" placeholder="enter your name"></td>
+             </tr>
+             <tr>
+                <td>email:</td><td> <input type="email" placeholder="@email.com"></td>
+             </tr>
+            <tr>
+                <td>gender:</td> <td><input type="radio" name="gender">male <input type="radio" name="gender">female</td>
+            </tr>
+            <tr>
+                <td>course:</td>
+                <td><select>
+                    <option>web development</option>
+                    <option>DS</option>
+                    <option>AI ML</option>
+                    <option>CLOUD COMPUTING</option>
+                </select></td>
+            </tr>
+            <tr>
+                <td>mobile:</td> <td> <input type="text"></td>
+            </tr>
+            <tr>
+                <td>passport photo:</td> <td> <input type="file"></td>
+            </tr>
+            <tr>
+                <td><input type="submit"></td>
+                <td><input type="reset"></td>
+            </tr>
+<hr>
+    </table>
+</form>
+
+<hr>
+
+<p>
+    <a href="file:///C:/Users/shaba/OneDrive/Documents/WEB%20DEVELOPMENT/Academy%20project%202/index.html">HOME</a>
+</p>
+</center>
+<hr>
+
+</body>
+</html>
