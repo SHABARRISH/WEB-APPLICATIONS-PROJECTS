@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+      <head>
+        <title>EVENTS📆</title>
+      </head>
+
+      <body bgcolor="black" style="color:aliceblue">
+             <center><h1>"UPCOMING EVENTS"</h1>
+                <h2>Dont miss out any upcoming event dates...(we are here)</h2>
+             </center>
+                <p>
+                    "Welcome to ,where every moment is meticulously crafted into unforgettable experiences. As a premier event management company, we specialize in turning your dreams into reality, one event at a time. From exquisite weddings to corporate extravaganzas and everything in between, our dedicated team of professionals ensures that every detail is flawlessly executed. With our creative flair, attention to detail, and unwavering commitment to excellence, we transform ordinary gatherings into extraordinary spectacles. Let us handle the logistics while you savor every moment, knowing that your event is in the hands of passionate experts. Whether it's an intimate affair or a grand celebration, trust [Company Name] to exceed your expectations and leave a lasting impression on you and your guests. Let's create memories that will be cherished for a lifetime."</p>
+            <hr>
+
+            <center>
+                <img src="music.jpeg">
+                <h3> <a href="https://www.townscript.com/o/motta-maadi-014124">BOOK YOUR TICKET</a></h3>
+                <h2>biggest music concert in INDIA do check it out</h2>
+                <h3>free food | live performance | free bandages</h3>
+
+            </center>
+            <p>Step into a world where melodies intertwine with the rhythm of your heart – welcome to the epitome of musical euphoria, where every note resonates with passion and every beat ignites the soul. At our music concert shows, we curate unforgettable experiences that transcend the boundaries of time and space. From the electrifying energy of live performances to the soul-stirring harmonies that linger in the air, each concert is a symphony of emotions waiting to be unleashed. </p>
+            <hr>
+
+            <center>
+                <img src="fashion.jpeg">
+                <h3> <a href="https://www.myntra.com/">FASHION SALE</a></h3>
+                <h2>Fashion sale</h2>
+                <h3>offers | sales | fashion</h3>
+            </center>
+            <p>Step into a world of style and sophistication at our fashion sales extravaganza! Discover the latest trends, timeless classics, and must-have pieces that will elevate your wardrobe to new heights. From runway-inspired looks to everyday essentials, our curated selection offers something for every fashionista, whether you're a trendsetter or a style connoisseur. </p>
+            <hr>
+
+            <center>
+                <h3>CONTACT US - ✉️eventmanage@gmail.com  </h3>
+                <p> 18 PUDUR,
+                    OPP.TO Bus Stand,
+                    MADURAI-12
+                </p>
+            </center>
+        </body>
+   
+</html>
